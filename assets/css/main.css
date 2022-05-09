@@ -1375,8 +1375,10 @@ color: var(--accent);
   border: none;
   -webkit-border-radius: 3px;
   border-radius: 3px;
-  padding: 0.1rem 0.5rem;
+  /* padding: 0.1rem 0.5rem; */
   line-height: 1.1;
+  padding: 0;
+  font-size: 1em;
 }
 
 /* = = = = = = = = = = Tweet = = = = = = = = = = = = */
