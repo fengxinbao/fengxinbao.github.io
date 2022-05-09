@@ -1381,6 +1381,29 @@ color: var(--accent);
   font-size: 1em;
 }
 
+/* = = = = = = = = = = fengxinbao = = = = = = = = = = = = */
+html {
+  font-size: 1.2rem;
+}
+h1 {
+  font-size: 2rem;
+}
+
+h2 {
+  font-size: 1.6rem;
+  font-weight: normal;
+}
+
+body {
+  font-family: var(--font2);
+}
+
+p {
+  font-size: 1rem;
+}
+
+
+
 /* = = = = = = = = = = Tweet = = = = = = = = = = = = */
 
 tweet {
