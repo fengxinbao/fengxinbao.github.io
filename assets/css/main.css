@@ -1402,6 +1402,13 @@ p {
   font-size: 1rem;
 }
 
+blockquote {
+  padding-left: 0.5em;
+  font-style: normal;
+  font-weight: normal;
+  margin-left: 0;
+  margin-right: 0;
+}
 
 
 /* = = = = = = = = = = Tweet = = = = = = = = = = = = */
